@@ -1,4 +1,4 @@
-package com.example.safwan.aplangvocab;
+package com.example.safwan.aplangvocabbuilder;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
