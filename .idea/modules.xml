@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/APLangvocab.iml" filepath="$PROJECT_DIR$/APLangvocab.iml" />
       <module fileurl="file://$PROJECT_DIR$/ApLangVocabBuilder.iml" filepath="$PROJECT_DIR$/ApLangVocabBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
